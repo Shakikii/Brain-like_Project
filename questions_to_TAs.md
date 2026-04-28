@@ -3,3 +3,8 @@ questions :
 2.  Should we write only on the Answer bow ?   
 3.  things_eeg2-test_reps.h5 data de la forme : (200, 63, 80, 80)
         (stimulus, channel, time, repetition)  OU BIEN (stimulus, channel, repetition, time) ???
+
+
+4. for the extension -> for now, no improvement of the baseline  
+         add a 4rth level that could improve the baseline??  
+         or switch to another extension ???  

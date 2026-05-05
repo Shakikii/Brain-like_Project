@@ -205,3 +205,12 @@ cython_debug/
 marimo/_static/
 marimo/_lsp/
 __marimo__/
+
+# Checkpoints datasets
+results_enc.json/
+df_eeg.csv/
+df_nsd.csv/
+df_tvsd.csv/
+*.json/
+*.csv/
+
